@@ -5,5 +5,5 @@ a = 5; b = 6;
 
 int main(){
   c-= a;
-  b = a/c;
+  b = a+c;
 }
